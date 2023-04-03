@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# My Helix Project
+Demo project
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--my-helix-project--david-gherghita.hlx.page/
+- Live: https://main--my-helix-project--david-gherghita.hlx.live/
 
 ## Installation
 
